@@ -1,0 +1,772 @@
+command_id: 7E1.222B1D
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E905622B1D0000
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 0
+- response: 7E905622B1D0001
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 0.1
+- response: 7E905622B1D0002
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 0.2
+- response: 7E905622B1D0003
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 0.3
+- response: 7E905622B1D0004
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 0.4
+- response: 7E905622B1D0005
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 0.5
+- response: 7E905622B1D0007
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 0.7
+- response: 7E905622B1D000B
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 1.1
+- response: 7E905622B1D000E
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 1.4
+- response: 7E905622B1D000F
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 1.5
+- response: 7E905622B1D0010
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 1.6
+- response: 7E905622B1D0015
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 2.1
+- response: 7E905622B1D0017
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 2.3
+- response: 7E905622B1D0018
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 2.4
+- response: 7E905622B1D001C
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 2.8
+- response: 7E905622B1D001F
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 3.1
+- response: 7E905622B1D0020
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 3.2
+- response: 7E905622B1D0021
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 3.3
+- response: 7E905622B1D0023
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 3.5
+- response: 7E905622B1D0025
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 3.7
+- response: 7E905622B1D0026
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 3.8
+- response: 7E905622B1D0027
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 3.9
+- response: 7E905622B1D0029
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 4.1
+- response: 7E905622B1D002B
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 4.3
+- response: 7E905622B1D002D
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 4.5
+- response: 7E905622B1D002F
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 4.7
+- response: 7E905622B1D0033
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 5.1
+- response: 7E905622B1D0036
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 5.4
+- response: 7E905622B1D0037
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 5.5
+- response: 7E905622B1D0038
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 5.6
+- response: 7E905622B1D003A
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 5.8
+- response: 7E905622B1D003B
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 5.9
+- response: 7E905622B1D003C
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 6
+- response: 7E905622B1D003D
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 6.1
+- response: 7E905622B1D003E
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 6.2
+- response: 7E905622B1D0041
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 6.5
+- response: 7E905622B1D0047
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 7.1
+- response: 7E905622B1D0049
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 7.3
+- response: 7E905622B1D004B
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 7.5
+- response: 7E905622B1D004D
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 7.7
+- response: 7E905622B1D004E
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 7.8
+- response: 7E905622B1D0054
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 8.4
+- response: 7E905622B1D0055
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 8.5
+- response: 7E905622B1D0057
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 8.7
+- response: 7E905622B1D0059
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 8.9
+- response: 7E905622B1D005A
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 9
+- response: 7E905622B1D005C
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 9.2
+- response: 7E905622B1D005D
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 9.3
+- response: 7E905622B1D005E
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 9.4
+- response: 7E905622B1D0063
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 9.9
+- response: 7E905622B1D0066
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 10.2
+- response: 7E905622B1D0068
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 10.4
+- response: 7E905622B1D006D
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 10.9
+- response: 7E905622B1D006F
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 11.1
+- response: 7E905622B1D0073
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 11.5
+- response: 7E905622B1D0078
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 12
+- response: 7E905622B1D007A
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 12.2
+- response: 7E905622B1D007E
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 12.6
+- response: 7E905622B1D0080
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 12.8
+- response: 7E905622B1D0085
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 13.3
+- response: 7E905622B1D008A
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 13.8
+- response: 7E905622B1D008C
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 14
+- response: 7E905622B1D008F
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 14.3
+- response: 7E905622B1D0090
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 14.4
+- response: 7E905622B1D0092
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 14.6
+- response: 7E905622B1D0093
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 14.7
+- response: 7E905622B1D0095
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 14.9
+- response: 7E905622B1D009A
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 15.4
+- response: 7E905622B1D009C
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 15.6
+- response: 7E905622B1D00A0
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 16
+- response: 7E905622B1D00A1
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 16.1
+- response: 7E905622B1D00A2
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 16.2
+- response: 7E905622B1D00A4
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 16.4
+- response: 7E905622B1D00A7
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 16.7
+- response: 7E905622B1D00AB
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 17.1
+- response: 7E905622B1D00AF
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 17.5
+- response: 7E905622B1D00B2
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 17.8
+- response: 7E905622B1D00B4
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 18
+- response: 7E905622B1D00B7
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 18.3
+- response: 7E905622B1D00B8
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 18.4
+- response: 7E905622B1D00B9
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 18.5
+- response: 7E905622B1D00C0
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 19.2
+- response: 7E905622B1D00C1
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 19.3
+- response: 7E905622B1D00C5
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 19.7
+- response: 7E905622B1D00C6
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 19.8
+- response: 7E905622B1D00C7
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 19.9
+- response: 7E905622B1D00CA
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 20.2
+- response: 7E905622B1D00D0
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 20.8
+- response: 7E905622B1D00D1
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 20.9
+- response: 7E905622B1D00D2
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 21
+- response: 7E905622B1D00D4
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 21.2
+- response: 7E905622B1D00D9
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 21.7
+- response: 7E905622B1D00DD
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 22.1
+- response: 7E905622B1D00DE
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 22.2
+- response: 7E905622B1D00DF
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 22.3
+- response: 7E905622B1D00E4
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 22.8
+- response: 7E905622B1D00E6
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 23
+- response: 7E905622B1D00E7
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 23.1
+- response: 7E905622B1D00E8
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 23.2
+- response: 7E905622B1D00EB
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 23.5
+- response: 7E905622B1D00EC
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 23.6
+- response: 7E905622B1D00F3
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 24.3
+- response: 7E905622B1D00F6
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 24.6
+- response: 7E905622B1D00FB
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 25.1
+- response: 7E905622B1D00FE
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 25.4
+- response: 7E905622B1D00FF
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 25.5
+- response: 7E905622B1D0103
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 25.9
+- response: 7E905622B1D010C
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 26.8
+- response: 7E905622B1D0111
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 27.3
+- response: 7E905622B1D0115
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 27.7
+- response: 7E905622B1D0116
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 27.8
+- response: 7E905622B1D0117
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 27.9
+- response: 7E905622B1D011B
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 28.3
+- response: 7E905622B1D0120
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 28.8
+- response: 7E905622B1D0121
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 28.9
+- response: 7E905622B1D0124
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 29.2
+- response: 7E905622B1D0129
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 29.7
+- response: 7E905622B1D012A
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 29.8
+- response: 7E905622B1D012E
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 30.2
+- response: 7E905622B1D012F
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 30.3
+- response: 7E905622B1D0132
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 30.6
+- response: 7E905622B1D0135
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 30.9
+- response: 7E905622B1D0136
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 31
+- response: 7E905622B1D013A
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 31.4
+- response: 7E905622B1D013C
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 31.6
+- response: 7E905622B1D013F
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 31.9
+- response: 7E905622B1D0141
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 32.1
+- response: 7E905622B1D0142
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 32.2
+- response: 7E905622B1D0148
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 32.8
+- response: 7E905622B1D014B
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 33.1
+- response: 7E905622B1D0150
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 33.6
+- response: 7E905622B1D0154
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 34
+- response: 7E905622B1D015A
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 34.6
+- response: 7E905622B1D0165
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 35.7
+- response: 7E905622B1D016A
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 36.2
+- response: 7E905622B1D0171
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 36.9
+- response: 7E905622B1D0173
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 37.1
+- response: 7E905622B1D0175
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 37.3
+- response: 7E905622B1D0176
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 37.4
+- response: 7E905622B1D0177
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 37.5
+- response: 7E905622B1D0182
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 38.6
+- response: 7E905622B1D0188
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 39.2
+- response: 7E905622B1D018C
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 39.6
+- response: 7E905622B1D0190
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 40
+- response: 7E905622B1D0192
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 40.2
+- response: 7E905622B1D0197
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 40.7
+- response: 7E905622B1D01A0
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 41.6
+- response: 7E905622B1D01A2
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 41.8
+- response: 7E905622B1D01A4
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 42
+- response: 7E905622B1D01A9
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 42.5
+- response: 7E905622B1D01B2
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 43.4
+- response: 7E905622B1D01B3
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 43.5
+- response: 7E905622B1D01B6
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 43.8
+- response: 7E905622B1D01B7
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 43.9
+- response: 7E905622B1D01B9
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 44.1
+- response: 7E905622B1D01BB
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 44.3
+- response: 7E905622B1D01C1
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 44.9
+- response: 7E905622B1D01C2
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 45
+- response: 7E905622B1D01C4
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 45.2
+- response: 7E905622B1D01C8
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 45.6
+- response: 7E905622B1D01E0
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 48
+- response: 7E905622B1D01E3
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 48.3
+- response: 7E905622B1D01F8
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 50.4
+- response: 7E905622B1D01F9
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 50.5
+- response: 7E905622B1D01FC
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 50.8
+- response: 7E905622B1D0202
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 51.4
+- response: 7E905622B1D0204
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 51.6
+- response: 7E905622B1D0207
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 51.9
+- response: 7E905622B1D020B
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 52.3
+- response: 7E905622B1D020C
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 52.4
+- response: 7E905622B1D020D
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 52.5
+- response: 7E905622B1D0219
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 53.7
+- response: 7E905622B1D021C
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 54
+- response: 7E905622B1D022D
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 55.7
+- response: 7E905622B1D0240
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 57.6
+- response: 7E905622B1D0242
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 57.8
+- response: 7E905622B1D024D
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 58.9
+- response: 7E905622B1D0255
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 59.7
+- response: 7E905622B1D0256
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 59.8
+- response: 7E905622B1D0262
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 61
+- response: 7E905622B1D0263
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 61.1
+- response: 7E905622B1D0264
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 61.2
+- response: 7E905622B1D026A
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 61.8
+- response: 7E905622B1D026F
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 62.3
+- response: 7E905622B1D0270
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 62.4
+- response: 7E905622B1D0273
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 62.7
+- response: 7E905622B1D0275
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 62.9
+- response: 7E905622B1D027C
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 63.6
+- response: 7E905622B1D0285
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 64.5
+- response: 7E905622B1D0286
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 64.6
+- response: 7E905622B1D0289
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 64.9
+- response: 7E905622B1D028E
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 65.4
+- response: 7E905622B1D0297
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 66.3
+- response: 7E905622B1D02A0
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 67.2
+- response: 7E905622B1D02A6
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 67.8
+- response: 7E905622B1D02B7
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 69.5
+- response: 7E905622B1D02C1
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 70.5
+- response: 7E905622B1D02D7
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 72.7
+- response: 7E905622B1D02D8
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 72.8
+- response: 7E905622B1D02DB
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 73.1
+- response: 7E905622B1D02DD
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 73.3
+- response: 7E905622B1D02DE
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 73.4
+- response: 7E905622B1D02DF
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 73.5
+- response: 7E905622B1D02E5
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 74.1
+- response: 7E905622B1D02E8
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 74.4
+- response: 7E905622B1D02EF
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 75.1
+- response: 7E905622B1D02FC
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 76.4
+- response: 7E905622B1D0305
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 77.3
+- response: 7E905622B1D0306
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 77.4
+- response: 7E905622B1D0308
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 77.6
+- response: 7E905622B1D0322
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 80.2
+- response: 7E905622B1D0323
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 80.3
+- response: 7E905622B1D0327
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 80.7
+- response: 7E905622B1D0331
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 81.7
+- response: 7E905622B1D0334
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 82
+- response: 7E905622B1D033A
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 82.6
+- response: 7E905622B1D033B
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 82.7
+- response: 7E905622B1D034B
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 84.3
+- response: 7E905622B1D0359
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 85.7
+- response: 7E905622B1D035F
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 86.3
+- response: 7E905622B1D0377
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 88.7
+- response: 7E905622B1D037A
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 89
+- response: 7E905622B1D038D
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 90.9
+- response: 7E905622B1D038E
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 91
+- response: 7E905622B1D0390
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 91.2
+- response: 7E905622B1D03B6
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 95
+- response: 7E905622B1D03C7
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 96.7
+- response: 7E905622B1D03CC
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 97.2
+- response: 7E905622B1D040A
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 103.4
+- response: 7E905622B1D0410
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 104
+- response: 7E905622B1D0412
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 104.2
+- response: 7E905622B1D0419
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 104.9
+- response: 7E905622B1D042A
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 106.6
+- response: 7E905622B1D042C
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 106.8
+- response: 7E905622B1D0438
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 108
+- response: 7E905622B1D0440
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 108.8
+- response: 7E905622B1D0447
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 109.5
+- response: 7E905622B1D0448
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 109.6
+- response: 7E905622B1D0483
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 115.5
+- response: 7E905622B1D0484
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 115.6
+- response: 7E905622B1D0489
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 116.1
+- response: 7E905622B1D04B2
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 120.2
+- response: 7E905622B1D04B5
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 120.5
+- response: 7E905622B1D04D0
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 123.2
+- response: 7E905622B1D04DD
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 124.5
+- response: 7E905622B1D04E1
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 124.9
+- response: 7E905622B1D04E5
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 125.3
+- response: 7E905622B1D04F4
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 126.8
+- response: 7E905622B1D0502
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 128.2
+- response: 7E905622B1D0503
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 128.3
+- response: 7E905622B1D0504
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 128.4
+- response: 7E905622B1D050D
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 129.3
+- response: 7E905622B1D0517
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 130.3
+- response: 7E905622B1D0519
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 130.5
+- response: 7E905622B1D052A
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 132.2
+- response: 7E905622B1D053B
+  expected_values:
+    AMAROK_TIRE_RL_SPD: 133.9
