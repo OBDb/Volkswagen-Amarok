@@ -1,0 +1,14 @@
+command_id: 7E1.222B1D
+test_cases:
+- expected_values:
+    AMAROK_TIRE_RL_SPD: 43.9
+  response: 7E905622B1D01B7
+- expected_values:
+    AMAROK_TIRE_RL_SPD: 50.8
+  response: 7E905622B1D01FC
+- expected_values:
+    AMAROK_TIRE_RL_SPD: 52.8
+  response: 7E905622B1D0210
+- expected_values:
+    AMAROK_TIRE_RL_SPD: 108.6
+  response: 7E905622B1D043E
