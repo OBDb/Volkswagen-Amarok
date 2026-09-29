@@ -31,3 +31,6 @@ supported_commands_by_ecu:
   - 015C:EOT
   - 015D:FUEL_TIMING
   - 015E:FUEL_RATE
+unsupported_commands_by_ecu:
+  "714":
+  - 714.22229A:AMAROK_FLV
